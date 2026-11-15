@@ -1,0 +1,11 @@
+# Ignore local markdown reports, scripts, and Enka dumps (contain raw UID)
+*.md
+*.ps1
+*.bat
+*.json
+*.txt
+8591上傳圖片_已遮UID/
+
+# Ignore unreferenced full-screen intermediate screenshots in web_assets (73 MB)
+web_assets/bag_*.jpg
+web_assets/roster_grid_*.jpg
